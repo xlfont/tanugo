@@ -1,0 +1,40 @@
+- name: Tanugo
+  displayname: たぬゴ角-TTF
+  category: sans serif
+  subsets:
+   - cjk
+   - latin
+  style:
+    normal:
+      - filename: dist/Tanugo-TTF-Bold
+        codes: 7673
+        weight: 700
+        xfl: true
+      - filename: dist/Tanugo-TTF-Regular
+        codes: 7673
+        weight: 400
+        xfl: true
+      - filename: dist/Tanugo-TTF-Light
+        codes: 7673
+        weight: 300
+        xfl: true
+      - filename: dist/Tanugo-TTF-ExtraLight
+        codes: 7673
+        weight: 200
+        xfl: true
+- name: Tanugo Round
+  displayname: たぬゴ丸-TTF
+  category: sans serif
+  subsets:
+   - cjk
+   - latin
+  style:
+    normal:
+      - filename: dist/Tanugo-TTF-Round-Light
+        codes: 7673
+        weight: 300
+        xfl: true
+      - filename: dist/Tanugo-TTF-Round-Bold
+        codes: 7673
+        weight: 700
+        xfl: true
